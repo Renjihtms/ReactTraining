@@ -1,0 +1,4 @@
+Q6) Is the Fetch API an ECMAScript feature ?
+Ans: No. It's part of the Web platform API.
+The various objects that implement the Fetch API are "host objects". i.e. objects exposed to userland 
+JavaScript that are provided by the application hosting the runtime (usually a browser).
